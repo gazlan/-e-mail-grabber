@@ -1,0 +1,7 @@
+-*-   e-mail 1.0  *  (c) gazlan@yandex.ru, 2016   -*-
+
+Pretty Good (RFC 5322) e-mail grabber
+
+Usage: email.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
